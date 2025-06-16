@@ -1,0 +1,2362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.runoob.com/python3/python3-tutorial.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-intro.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-install.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-vscode-setup.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/fitten-code.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-basic-syntax.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-data-type.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-type-conversion.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-interpreter.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-comment.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-basic-operators.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-number.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-tuple.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-dictionary.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-set.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-conditional-statements.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-loop.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-step1.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-comprehensions.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-iterator-generator.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-with-keyword.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-function.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-lambda.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-decorators.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-data-structure.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-module.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-name-main.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-inputoutput.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-methods.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-file-methods.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-errors-execptions.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-class.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-namespace-scope.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-stdlib.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-examples.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-reg-expressions.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-cgi-programming.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-mysql-connector.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-mysql.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-socket.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-smtp.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-multithreading.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-xml-processing.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-json.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-date-time.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-built-in-functions.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-mongodb.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-urllib.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-uwsgi.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-pip.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-operator.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-math.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-requests.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-random.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-resources.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-ai-draw.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-statistics.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-hashlib.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-qt.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-pyecharts.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-selenium.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-spider-beautifulsoup.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-scrapy.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-markdown2html.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-sys.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/pyhton-pikle.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-subprocess.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-queue.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-stringio.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-logging.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-datetime.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-re.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-csv.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-treading.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-asyncio.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-pyqt.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-2x-3x.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-keyword.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-command-line-arguments.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-int.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-float.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-complex.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-str.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-repr.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-eval.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-tuple.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-set.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-dict.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-frozenset.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-chr.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-ord.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-hex.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-func-oct.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-abs.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-ceil.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-exp.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-fabs.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-floor.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-log.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-log10.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-max.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-min.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-modf.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-pow.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-round.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-sqrt.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-choice.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-randrange.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-random.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-seed.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-shuffle.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-uniform.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-acos.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-asin.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-atan.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-atan2.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-cos.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-hypot.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-sin.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-tan.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-degrees.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-number-radians.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-capitalize.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-center.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-count.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-decode.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-encode.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-endswith.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-expandtabs.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-find.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-index.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-isalnum.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-isalpha.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-isdigit.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-islower.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-isnumeric.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-isspace.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-istitle.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-isupper.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-join.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-len.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-ljust.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-lower.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-lstrip.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-maketrans.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-max.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-min.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-replace.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-rfind.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-rindex.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-rjust.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-rstrip.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-split.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-splitlines.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-startswith.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-strip.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-swapcase.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-title.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-translate.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-upper.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-zfill.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-string-isdecimal.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-append.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-len.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-max.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-min.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-count.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-extend.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-index.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-insert.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-pop.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-remove.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-reverse.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-sort.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-clear.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-list-copy.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-clear.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-copy.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-fromkeys.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-get.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-in-html.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-items.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-keys.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-setdefault.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-update.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-values.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-pop.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-dictionary-popitem.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-add.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-clear.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-copy.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-difference.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-difference_update.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-discard.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-intersection.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-intersection_update.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-isdisjoint.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-issubset.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-issuperset.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-pop.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-remove.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-symmetric_difference.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-symmetric_difference_update.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-union.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-set-update.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-match-case.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-range.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-input.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-close.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-flush.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-fileno.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-isatty.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-next.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-read.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-readline.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-readlines.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-seek.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-tell.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-truncate.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-write.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-writelines.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-access.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-chdir.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-chflags.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-chmod.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-chown.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-chroot.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-close.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-closerange.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-dup.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-dup2.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-fchdir.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-fchmod.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-fchown.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-fdatasync.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-fdopen.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-fpathconf.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-fstat.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-fstatvfs.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-fsync.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-ftruncate.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-getcwd.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-getcwdb.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-isatty.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-lchflags.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-lchmod.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-lchown.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-link.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-listdir.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-lseek.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-lstat.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-major.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-makedev.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-makedirs.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-minor.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-mkdir.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-mkfifo.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-mknod.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-open.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-openpty.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-pathconf.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-pipe.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-popen.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-read.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-readlink.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-remove.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-removedirs.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-rename.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-renames.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-rmdir.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-stat.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-stat_float_times.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-statvfs.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-symlink.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-tcgetpgrp.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-tcsetpgrp.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-ttyname.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-unlink.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-utime.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-walk.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-write.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-path.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-pardir.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-replace.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-os-startfile.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-with.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-assert.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-helloworld.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-add-number.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-square-root.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-quadratic-roots.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-area-triangle.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-area-of-a-circle.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-random-number.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-celsius-fahrenheit.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-swap-variables.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-if-example.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-check-is-number.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-odd-even.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-leap-year.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-largest-number.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-prime-number.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-prime-number-intervals.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-factorial.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-99-table.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-fibonacci-sequence.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-armstrong-number.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-conversion-binary-octal-hexadecimal.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-ascii-character.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-hcf.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-lcm.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-calculator.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-calendar.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-fibonacci-recursion.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-file-io.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-check-string.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-upper-lower.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-month-days.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-get-yesterday.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-list-operator.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-joseph-life-dead-game.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-five-fish.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-simplestopwatch.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-cube-sum.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-sum-array.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-array-rotation.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-list-interchange.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-list-swap-two-elements.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-reversing-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-check-element-exists-in-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-clear-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-remove-duplicate-from-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-copy-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-count-occurrences-element-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-sum-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-multiply-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-min-list-element.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-max-list-element.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/pyhton-remove-ith-character-from-string.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-check-substring-present-given-string.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-string-length.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-find-url-string.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-execute-string-code.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-string-reverse.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-slicing-rotate-string.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-sort-dictionaries-by-key-or-value.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-sum-dictionary.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-remove-a-key-from-dictionary.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-merging-two-dictionaries.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-str-timestamp.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-get-dayago.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-timstamp-str.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-your-font.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-binary-search.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-linear-search.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-insertion-sort.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-quicksort.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-selection-sort.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-bubble-sort.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-merge-sort.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-heap-sort.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-counting-sort.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-shellsort.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-topological-sorting.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-bank-system.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-trim-whitespace-from-a-string.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-sort-list-by-alphabetically.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-to-do-list.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-time-clock.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-time-mktime-html.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-att-time-tzset-html.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-hex.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-divmod.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-func-object.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-sorted.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-ascii.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-enumerate.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-open.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-exec.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-ord.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-filter.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-bytes.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-chr-html.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-zip.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-reversed.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python3-func-reload.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-mongodb-insert-document.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-mongodb-query-document.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-mongodb-update-document.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-mongodb-sort.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-mongodb-delete-document.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-e.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-inf.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-nan.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-pi.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-tau.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-acos.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-acosh.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-asin.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-asinh.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-atan.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-atan2.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-atanh.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-ceil.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-comb.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-copysign.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-cos.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-cosh.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-degrees.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-dist.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-erf.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-erfc.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-exp.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-expm1.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-fabs.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-factorial.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-floor.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-fmod.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-frexp.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-fsum.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-gamma.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-gcd.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-hypot.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-isclose.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-isfinite.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-isinf.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-isnan.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-isqrt.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-ldexp.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-lgamma.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-log.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-log10.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-log1p.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-log2.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-perm.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-pow.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-prod.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-radians.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-remainder.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-sin.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-sinh.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-sqrt.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-tan.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-tanh.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-math-trunc.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-random-randrange.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-random-randint.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-harmonic_mean.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-mean.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-median.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-median_grouped.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-median_high.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-median_low.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-mode.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-pstdev.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-stdev.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-pvariance.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-variance.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/ref-stat-quantiles.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-pyqt-widgets.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-pyqt-layout.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python-pyqt-signals-and-slots.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-chinese-encoding.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/file-methods.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/os-file-methods.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-built-in-functions.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.runoob.com/python3/python/python-socket.html</loc>
+  <lastmod>2025-06-16T15:24:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
