@@ -10,7 +10,7 @@ class EmailBox:
     def __init__(self, receiver, date=time.strftime("%Y-%m-%d", time.localtime()), subject="测试邮件"):
         self.smtp_server = "smtp.163.com"  # 邮箱服务器
         self.sender = "qq2895967878@163.com"  # 发邮件的人
-        self.password = "HWQAGVJYTMMLDLMV"  # 授权码
+        self.password = "请输入自己的授权码"  # 授权码
         self.receiver = receiver
         self.subject = subject
         self.msg = None
